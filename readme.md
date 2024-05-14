@@ -8,7 +8,7 @@
    <img src="https://i.pinimg.com/280x280_RS/b0/82/2c/b0822c934829429ad6176601c3a0612d.jpg"/>
  
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Formulating HTML</h3>
+  <h3 align="center">Amiel laki titeL</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
