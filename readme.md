@@ -4,23 +4,22 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
+ <a href="https://app.daily.dev/mononokuma">
+   <img src="https://api.daily.dev/devcards/v2/DMEySfkP0murZQ6MrL1WW.png?type=wide&r=rgz" width="652" alt="Aries's Dev Card"/>
+ </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Formulating HTML</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Seatwork 2 is an entry-level activity that lets us formulate our own website that is based on pre-existing websites
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=MononoKuma/WD-Seatwork2)
 
 ---
 
@@ -57,20 +56,24 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Description of the project in detail.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+ - What is the project
+   - This an introductory project in HTML that lets us create our first project in our class of IT0043 Web Design with Client Side Scripting.
+ - What the purpose
+   - This is to test our knowledge and understanding of our lesson so far.
+ - What are key components
+   - Index.html
+   - css file
+ - What technology is used and how it is used
+   - Laptop and desktop computers are used for coding.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- index.html
+- css file
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -84,26 +87,21 @@ Guiding Question:
 3. File Structure to follow
 
 ```
-WD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ style.css
-|   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
-└─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
-└─ index.html
-└─ readme.md
+WD-Seatwork 2 
+L Assets 
+|   L documents 
+|  |     L seatwork2_wireframe.pdf      
+|   L css 
+|   |     L placeholder 
+|   L js 
+|   |     L placeholder 
+|   L images 
+|         L placeholder 
+L Pages 
+|   L placeholder 
+L index.html 
+| 
+L README.md 
 ```
 
 ## Resources
