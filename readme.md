@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Seatwork 2 is an entry-level activity that lets us formulate our website that is based on pre-existing websites
+  Seatwork 2 allows us to test our knowledge in HTML
 </div>
 
 <br />
