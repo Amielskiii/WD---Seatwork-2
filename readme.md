@@ -4,9 +4,9 @@
 
 <br />
 <div align="center">
- <a href="https://i.pinimg.com/280x280_RS/b0/82/2c/b0822c934829429ad6176601c3a0612d.jpg">
+
    <img src="https://i.pinimg.com/280x280_RS/b0/82/2c/b0822c934829429ad6176601c3a0612d.jpg"/>
- </a>
+ 
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Formulating HTML</h3>
 </div>
