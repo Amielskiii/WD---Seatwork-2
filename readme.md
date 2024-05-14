@@ -60,14 +60,14 @@ Description of the project in detail.
 
 Guiding Question:
  - What is the project
-   - This an introductory project in HTML that lets us create our first project in our class of IT0043 Web Design with Client Side Scripting.
+   - We can develop our first project in our IT0043 Web Design with Client Side Scripting class using this HTML introduction project.
  - What the purpose
-   - This is to test our knowledge and understanding of our lesson so far.
+   - The purpose of this seatwork is to let Mr. Ian Ramirez know that we listen to his lessons and to test our knowledge and capabilities in our lessons
  - What are key components
    - Index.html
    - css file
  - What technology is used and how it is used
-   - Laptop and desktop computers are used for coding.
+   - I used a laptop for my coding.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
