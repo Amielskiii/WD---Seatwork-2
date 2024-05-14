@@ -57,6 +57,7 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in detail.
+Creating a GitHub repository link involves a few straightforward steps. First, log in to your GitHub account and click the "New" button on your repositories page. Next, name your repository and add a description if desired. Decide whether it will be public or private, then click "Create repository." Once created, you'll be taken to the repository page. Copy the URL from your browser's address bar—this is your GitHub repository link. You can now share this link with others to provide access to your project's code and files.
 
 Guiding Question:
  - What is the project
